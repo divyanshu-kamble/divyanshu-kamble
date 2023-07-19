@@ -11,7 +11,7 @@ I'm a DevOps Engineer with a passion for Machine Learning and Data. ⚙️ As a 
     📊 I'm enthusiastic about data engineering and data pipelines. I enjoy working with various data storage and processing technologies, such as Apache Kafka, Apache Spark, and Elasticsearch, to build efficient and scalable data pipelines.
     👯 I'm always eager to collaborate with teams working on projects that involve DevOps, Machine Learning, and Data. I believe in the power of interdisciplinary collaboration to drive innovation and solve complex challenges.
 
-### Certifications:
+## Certifications:
 <!-- Container -->
 <div style="display: flex; align-items: center;">
 <!-- LinkedIn -->
@@ -22,7 +22,7 @@ I'm a DevOps Engineer with a passion for Machine Learning and Data. ⚙️ As a 
 
 </div>
 
-### Connect with me:
+## Connect with me:
 <!-- Container -->
 <div style="display: flex; align-items: center;">
 
