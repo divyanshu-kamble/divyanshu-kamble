@@ -16,9 +16,9 @@ I'm a DevOps Engineer with a passion for Machine Learning and Data. ⚙️ As a 
 <div style="display: flex; align-items: center;">
 <!-- LinkedIn -->
   <a href="https://www.credly.com/badges/b68b19aa-707e-48fd-9939-9fcabe7a4d26/public_url" target="_blank">
-    <img alt="LinkedIn" width="85" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" />
+    <img alt="LinkedIn" width="100" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" />
   <a href="https://www.credly.com/badges/7d442c3d-ad92-48a1-ba48-94ec2b2b936f/public_url" target="_blank">
-    <img alt="LinkedIn" width="95" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+    <img alt="LinkedIn" width="105" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   </a>
 
 
